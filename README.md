@@ -1,6 +1,6 @@
 # mern-stack
 
-Another boilerplate code for getting started with MERN stack using Webpack
+Another boilerplate code for getting started with MERN stack User and Admin Authentication System.
 
 ## ScreenShot
 
